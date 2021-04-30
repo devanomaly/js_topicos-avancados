@@ -1,0 +1,7 @@
+JITC => javascript interpreta os tipos durante compilação (por isso não precisamos tipá-las)
+static => less bugs e codigo "auto-documentado"
+
+strong vs weak (sao coisas distintasde dinamica e estatica)
+tipagem forte nao deixa voce misturar string e number por exemplo
+variavel = "ok"
+variavel += 2 <= python vai dar erro, js vai retornar "ok2" xP
