@@ -1,0 +1,4 @@
+Separar dados de metodos (note a oposição às ideias classes!)
+Imutabilidade: você cria uma coisa, e ela não pode ficar sendo modificada por aí de qualquer jeito ou toda hora!
+Conceito de funções puras é central
+Fazer as coisas fluírem como água num cano

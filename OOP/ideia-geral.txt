@@ -1,4 +1,5 @@
 A ideia geral de OOP é modelar objetos do mundo real.
 Práticas centrais como reuso de código, fonte única de verdade e etc brilham muito aqui.
 Importante: OOP pode ser implementada usando prototipação ou classes (que são [aproximadamente] a mesma coisa)
-
+Em JS as classes sao implementadas por baixo dos panos usando prototipação
+]
